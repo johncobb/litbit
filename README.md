@@ -42,4 +42,4 @@ bool checkBit(int32_t data, int bitPos) {
 ```
 
 ### Summary
-As you can see setting and clearing bits in an integer is easy. Don't let the operaters intimindate you from using them to your advantage. Bit operations are fast and allow for tighter packing of data when system resources are limited.
+As you can see setting and clearing bits is easy. Don't let the operaters intimindate you from using them to your advantage. Bit operations are fast and allow for tighter packing of data when system resources are limited.
